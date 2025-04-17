@@ -5,9 +5,9 @@
 # textColor="#101010"
 
 #%%
-!pip install pdfplumber 
-!pip install ocrmypdf
-!pip install plotly
+pip install pdfplumber 
+pip install ocrmypdf
+pip install plotly
 #%%
 import pdfplumber
 import streamlit as st
